@@ -4,11 +4,11 @@ French developper, and open-source enthusiast.
 
 ## Open-source project I work on
 
-<img src="https://transi-store.com/logo-square-black.svg" width="24" /> [Transi-Store](https://github.com/transi-store/transi-store): The simple and powerful translation system.
-
 <img src="https://immutable-js.com/favicon.png" width="24" /> [immutable-js](https://immutable-js.com/): Persistent Immutable data structures in JS
 
 <img src="https://raw.githubusercontent.com/jdeniau/tiana-tables/refs/heads/main/images/icons/icon.png" width="24" /> [tiana-tables](https://github.com/jdeniau/tiana-tables/): a pretty SQL query tool to help developpers
+
+<img src="https://transi-store.com/logo-square-black.svg" width="24" /> [Transi-Store](https://github.com/transi-store/transi-store): The simple and powerful translation system. 
 
 <img src="https://prettier.io/icon.png" width="24" /> [prettier-plugin-gherkin](https://github.com/mapado/prettier-plugin-gherkin): prettier plugin format your gherkin (`.feature` files) documents.
 
